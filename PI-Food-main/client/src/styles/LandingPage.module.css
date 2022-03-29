@@ -1,0 +1,36 @@
+.landing {
+  background-image: url("../icons/landing3.jpg");
+ 
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+
+.text {
+  padding: 17px;
+  color: rgb(8, 8, 8);
+  font-style: italic;
+  font-weight: 400;
+  text-shadow: 4px 4px 5px rgb(246, 242, 242);
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+
+.btn {
+  color: rgb(8, 8, 8);
+  background-color: rgb(119, 183, 204);
+  font-size: 20px;
+  text-align: center;
+  padding: 10px 20px;
+  margin: 20px;
+  border-radius: 6px;
+  box-shadow: 3px 3px 5px 1px rgb(246, 242, 242);
+  cursor: pointer;
+}

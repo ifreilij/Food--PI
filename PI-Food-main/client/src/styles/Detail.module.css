@@ -1,0 +1,39 @@
+.details {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style:none
+}
+.img {
+  height: 10cm;
+  width: 14cm;
+  border-radius: 18px;
+  box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.55);
+}
+.title {
+  background-color: rgb(109, 221, 114);
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.55);
+  font-family: italic;
+}
+.text {
+    background-color: rgb(109, 221, 114);
+  margin: auto;
+  border-radius: 10px;
+  padding: 5px;
+  box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.55);
+  font-family: italic;
+  list-style:none
+ 
+}
+.imgDiet {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 30px;
+}
+.steps{
+    list-style: none;
+}
